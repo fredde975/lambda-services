@@ -1,0 +1,8 @@
+{
+  "name": "getKund",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::000986988155:role/getKund_lambda_function",
+  "environment": {}
+}

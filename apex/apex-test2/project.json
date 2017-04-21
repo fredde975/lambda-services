@@ -1,0 +1,8 @@
+{
+  "name": "second-apex-project",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::000986988155:role/second-apex-project_lambda_function",
+  "environment": {}
+}

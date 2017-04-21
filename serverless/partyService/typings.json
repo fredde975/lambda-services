@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "chai": "github:types/npm-chai#793bee097a6a644e078a033603d88ac89eb7b560"
+  }
+}

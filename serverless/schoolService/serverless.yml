@@ -1,0 +1,21 @@
+service: schoolService
+
+plugins:
+    - serverless-plugin-typescript
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+
+  stage: dev
+  region: eu-west-1
+
+
+functions:
+  hello:
+    handler: handler.hello
+
+    events:
+     - http:
+         path: hello
+         method: get
