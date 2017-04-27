@@ -19,3 +19,11 @@ functions:
      - http:
          path: hello
          method: get
+
+  retriveSchool:
+       handler: handler.retriveSchool
+
+       events:
+        - http:
+            path: retriveSchool
+            method: get

@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function hello(event, context, callback) {
     console.log("loggar lite");
     console.log(`Method: ${event.method}`);

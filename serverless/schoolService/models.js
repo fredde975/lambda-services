@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // const response = {
 //   statusCode: 200,
 //   body: JSON.stringify({

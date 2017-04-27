@@ -1,0 +1,8 @@
+{
+  "name": "camping-service",
+  "description": "an apex project",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::000986988155:role/camping-service_lambda_function",
+  "environment": {}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bookServiceApex",
+  "description": "an apex project",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::000986988155:role/bookServiceApex_lambda_function",
+  "environment": {
+    "ENVIRONMENT": "prod"
+  }
+}

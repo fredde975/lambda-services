@@ -1,7 +1,6 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-const handler_1 = require("./handler");
-const chai = require("chai");
+const handler_1 = require('./handler');
+const chai = require('chai');
 const expect = chai.expect;
 describe('hello function', () => {
     it('processes the query string', done => {
